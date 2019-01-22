@@ -25,6 +25,7 @@ public class Card
     {
         suit = givenSuit;
         value = givenValue;
+        //Git demo
     }
 
     /**
